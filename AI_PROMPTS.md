@@ -1,7 +1,7 @@
 # Agent 交互日志
 
-**团队名称：** CodeWithAI_Team
-**成员名单：** 成员1, 成员2, 成员3
+**团队名称：** aigc
+**成员名单：** 朱鑫铭, 刘鹭丹, 王博
 **使用的 AI Coding Agent 工具：** Claude Code
 
 ---
