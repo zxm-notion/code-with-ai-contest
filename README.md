@@ -63,8 +63,8 @@ streamlit run app.py
 ## 运行截图
 
 ![](./ScreenShot_2D.png)
-![](./屏幕截图%202026-05-08%20161456.png)
-![](./屏幕截图%202026-05-08%20161505.png)
+![](./ScreenShot_3D.png)
+![](./ScreenShot_DATA.png)
 ## 技术栈
 
 - **Web 框架**: Streamlit
