@@ -63,7 +63,7 @@ streamlit run app.py
 ## 运行截图
 
 > 请在此处放置 2-3 张运行截图
-
+![Main Dashboard](屏幕截图 2026-05-08 161444.png)
 ## 技术栈
 
 - **Web 框架**: Streamlit
